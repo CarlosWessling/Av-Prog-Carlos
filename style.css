@@ -57,6 +57,20 @@ header{
 
 
 @media screen and (min-width: 820px) {
+    .cabecalho{
+        background-color: white;
+        color: #4EBFE9;
+    }
+    .tema{
+        background: white;  
+    }
+    .tema__titulo{
+        color: #4EBFE9;
+    }
+    
+    .tema__descricao{
+        color: #4EBFE9;
+    }
     
 }
 
